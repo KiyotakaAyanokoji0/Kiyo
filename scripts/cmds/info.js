@@ -49,13 +49,13 @@ module.exports = {
     const name = userData.name;
  
     const ment = [{ id: id, tag: name }];
-    const a = "Suzume🎀✨";
-    const b = " - ";
-    const c = "NewarniDimpy";
-    const e = "Female";
-    const d = "m.me/61557538632528";
-    const f = "luvley.dimpyy";
-    const g = "Married With Newarr 😝💗";
+    const a = "Sex Bot";
+    const b = " + ";
+    const c = "Kiyotaka";
+    const e = "Male";
+    const d = "";
+    const f = "...";
+    const g = "With your mom";
  
  
     message.reply({
